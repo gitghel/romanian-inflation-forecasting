@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Outputs (if you don't want to commit generated images)
+outputs/
+*.png
+*.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
